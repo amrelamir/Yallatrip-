@@ -1,0 +1,7 @@
+{
+  "name": "YALLATRIP - Premium Egypt Tourism Platform",
+  "description": "A modern 2026-level digital tourism platform for booking tours, excursions, and activities in Egypt, optimized for high conversion and premium user experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
